@@ -1,5 +1,5 @@
 ## Index.html
-Defend Your Homr!
+Defend Your Home!
 
 "The wind whipped through my hair as I sprinted away from the place I used to call home. I could feel the scorching heat biting at my heels as I ran full speed down the hill toward the river. Part of me was urging my body forward, but the rest of me forced my head to turn and look behind at the carnage. I saw the wave of grey sweeping over the land, reducing everything to piles of dust and sand. The lush oasis I grew up in was crumbling before me. I felt my foot catch on a root and my entire body pitched forward as I tumbled to the ground. On the ground, and watching the destruction sweep ever closer I became too overwhelmed to move. I felt my arm being wrenched upward and my whole body followed up onto the back of my mother. She rushed me into the boat before hopping in herself. It didn’t take long for me to notice the grey hue in her skin. I looked down and saw the pestilence had touched her foot and I began to weep. The Kuga had gotten her."
 

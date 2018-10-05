@@ -84,7 +84,7 @@ of Kuga territory.
   - Paralax background was learned from: https://www.w3schools.com/howto/howto_css_parallax.asp
 ### Meeting Requirements
   - 21 style declarations
-  -All images have an alt
+  - All images have an alt
   - IDs
     - navlist: used for the navigation
     - changeling: used for the top left logo

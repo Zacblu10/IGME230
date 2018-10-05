@@ -1,9 +1,13 @@
 ## Index.html
-Game Title: Changeling
+Defend Your Homr!
+
+"The wind whipped through my hair as I sprinted away from the place I used to call home. I could feel the scorching heat biting at my heels as I ran full speed down the hill toward the river. Part of me was urging my body forward, but the rest of me forced my head to turn and look behind at the carnage. I saw the wave of grey sweeping over the land, reducing everything to piles of dust and sand. The lush oasis I grew up in was crumbling before me. I felt my foot catch on a root and my entire body pitched forward as I tumbled to the ground. On the ground, and watching the destruction sweep ever closer I became too overwhelmed to move. I felt my arm being wrenched upward and my whole body followed up onto the back of my mother. She rushed me into the boat before hopping in herself. It didn’t take long for me to notice the grey hue in her skin. I looked down and saw the pestilence had touched her foot and I began to weep. The Kuga had gotten her."
 
 In this emotional platforming adventure, you play as a young child, given the gift of transmutation by a mysterious being. 
 You have been thrown into the role of the hero in order to rid your lush, green world of the Kuga by uncovering a lost weapon 
 said to have repelled them years ago.   
+
+<picture of gameplay>
 
 ## Proposal.html
 1. High Concept & Genre
@@ -51,6 +55,7 @@ of Kuga territory.
   6. Screenshots
    - Picture of a basic level
    - Picture of player attacking
+   - Picture of player 
   7. Other 
    - The buildings and architecture of the cities in this game are loosly based on croatia's cities and landscapes which are very lush and 
     beautiful.  Since most of the architecture, landscape, and names in this game are based on Croatia and the Croatian language, it is fitting to use Josif Tito as inspiration for the main enemy.  Tito was the communist leader of Yugoslav, which covered the area of Croatia and Bosnia, until his regime was defeated in Operation Storm. 
@@ -58,6 +63,38 @@ of Kuga territory.
   8. About the developers
    - Zack Green is a second year Game Design and Development Major and the Rochester Institute of Technology.  Over the years he has gained experience in Unity, MonoGame, Visual Studio while programming in C#. 
    He is also experienced in both Photoshop and Maya and has hand drawn the sprites for this game.  On top of that he has knowledge of HTML5 as well as CSS.  He really enjoys games with 
-   a deep story and hopes to eventually be on a team developing a vast open world game.
+   a deep story and hopes to eventually be on a team developing a vast open world game
+## Documentation.html
+### Process
+  - The content was created firest in this document
+  - The website plan was mocked up on paper using pencil and markers
+  - The website was mocked up in photoshop
+  - Images and backgrounds created in photoshop 
+  - Html and CSS created with lorem ipsum text 
+  - Content added to the web page
+  - webpage adjusted to be mobile friendly
+### Resources
+  - Images: Created in Adobe Photoshop
+  - Code: Written in Brackets
+### Sources
+  - Navigation is loosly based on the tutorial found here http://css.maxdesign.com.au/floatutorial/tutorial0601.htm
+  - All images and assets are original to me and created by me in photoshop. 
+  - Fonts:
+    - https://fonts.google.com/specimen/Montserrat?selection.family=Montserrat:700|Raleway
+  - Paralax background was learned from: https://www.w3schools.com/howto/howto_css_parallax.asp
+### Meeting Requirements
+  - 21 style declarations
+  -All images have an alt
+  - IDs
+    - navlist: used for the navigation
+    - changeling: used for the top left logo
+    - quote: used for the quote about the story on the about page
+    - pitch: used for the pitch statement underneath the quote on the about page
+  - Classes
+    - floatRight: used for objects that need to float right 
+    - placeholder: used to make the "In development" placeholder on the game page
+    - rightImage: used for text placed next to an image that is floated right
+    
+  
 
   
